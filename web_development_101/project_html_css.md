@@ -473,6 +473,11 @@ Note: All the classes and id's and names of elements that you inspect on Google'
 * [Aryan Jabbari's solution](https://github.com/AryanJ-NYC/google-homepage) | [View in browser](http://aryanj-nyc.github.io/google-homepage/)
 * [Prakhar Gautam's solution (Easy) ](https://github.com/prakhargautam/google-homepage) | [View in browser (easy)](http://htmlpreview.github.io/?https://github.com/prakhargautam/google-homepage/master/google.html) || [(Hard)](https://github.com/prakhargautam/google-homepage-hard-) | [View in browser (Hard)](http://htmlpreview.github.io/?https://github.com/prakhargautam/google-homepage-hard-/master/google.html)
 * [DV's solution](https://github.com/dvislearning/google-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/dvislearning/google-homepage/blob/master/google.html)
+* [Thomas's solution] (https://github.com/Tomkawa/google-homepage) | [View in browser] (https://htmlpreview.github.io/?https://github.com/Tomkawa/google-homepage/blob/master/index.html)
+* [David Atcheson's solution](https://github.com/atchesond/google-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/atchesond/google-homepage/blob/master/index.html)
+* [Skye Free's solution] (https://github.com/swfree/google-homepage) | [View in browser] (http://htmlpreview.github.io/?https://github.com/swfree/google-homepage/blob/master/index.html)
+* [John Smalley's solution](https://github.com/johnsmalley/google-homepage) | [View in browser] (https://htmlpreview.github.io/?https://github.com/johnsmalley/google-homepage/blob/master/index.html)
+* [Andrew Johnson's solution - easy](https://github.com/ad-johnson/google-homepage) | [View in browser](http://htmlpreview.github.io/?https://github.com/ad-johnson/google-homepage/blob/master/homepage.html) | [Hard (view in browser)](http://htmlpreview.github.io/?https://github.com/ad-johnson/google-homepage/blob/master/results.html)
 * Add your solution above this line!
 
 
